@@ -1,0 +1,6 @@
+compas >=2.3.0
+compas_fd
+compas_ifc
+compas_model
+compas_notebook
+compas_viewer
