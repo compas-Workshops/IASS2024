@@ -1,5 +1,0 @@
-compas >=2.4.0
-compas_fd
-compas_ifc
-compas_occ
-compas_viewer
